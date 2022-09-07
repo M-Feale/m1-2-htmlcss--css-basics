@@ -1,0 +1,34 @@
+.feline {
+    color: blue;
+}
+
+h1,h2 {
+    color: blue;
+}
+
+.royalcat{
+    color: blue;
+}
+
+.canine{
+    color: red;
+}
+
+.animal.cat {
+    color: blue;
+}
+
+.blue {
+    color: blue;
+}
+p {
+    color: red;
+}
+
+.greeting {
+    border: 10px solid;
+    height: 100px;
+    margin: 50px;
+    padding: 25px;
+    width: 100px;
+}
