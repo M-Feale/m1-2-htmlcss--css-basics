@@ -1,0 +1,58 @@
+/* section p {
+    color: yellowgreen;
+    background-color: tomato;
+    width: 200px;
+    margin: 0 auto ;
+    text-align: center;
+} */
+
+section>ul {
+    color:blue;
+}
+
+h1 {
+    font-weight: bold;
+    border: 3px dashed black;
+    width: 400px;
+    margin: 0 auto; 
+    text-align: center;
+}
+
+.men {
+    color:green;
+}
+
+.musicianName .men {
+    color: palevioletred;
+}
+
+ul.women{
+    color:aqua;
+}
+
+/* .container {
+    width: 200px;
+    height: 200px;
+    background-color: yellowgreen;
+    display: inline-flex;
+} */
+
+.container {
+    width: 200px;
+}   
+
+.child {
+    display: inline-flex;
+    width: 150px;
+    height: auto;
+}
+
+.flex-container {
+    /* display: flex;
+    flex-direction: column; */
+    width: 1000px;
+    }
+.flex-item {
+    height: 100px;
+    width: 100px;
+    }
