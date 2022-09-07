@@ -1,0 +1,19 @@
+.flex-container {
+    display: flex;
+    /* flex-direction: column; */
+    width: 1000px;
+    height: 500px;
+    background-color: aquamarine;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    }
+.flex-item {
+    height: 100px;
+    width: 100px;
+    background-color: yellowgreen;
+    border: 2px dotted;
+    overflow-wrap:break-word;
+    align-items: center;
+    hyphens: auto;
+    }
