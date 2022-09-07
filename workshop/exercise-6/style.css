@@ -12,29 +12,43 @@ html, body, div, h1, h2, p, ul, li {
 /* ADD CSS BELOW */
 
 body {
-
+	background-color: white;
+	font-family: Impact;
+	font-style: italic;
+	text-transform: uppercase;
 }
 
 h1, h2 {
-    
+
 }
 
 h1 {
-
+	font-size: 40px;
+	text-align: center;
+	padding: 20px;
 }
 
 h2 {
-
+	margin-bottom: 16px;
+	font-size: 20px;
 }
 
 .row {
-
+	/* background-color: cyan; */
+	padding: 30px;
+	list-style-type: none;
+	display: flex;
+	justify-content:space-between;
+	align-items: center;
 }
 
 .col {
-
+	background-color: lightgray;
+	padding: 20px;
+	border: 2px dashed grey;
+	text-align: center;
 }
 
 .image {
-
+	height: 200px;
 }

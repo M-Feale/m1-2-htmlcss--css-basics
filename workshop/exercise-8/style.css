@@ -3,17 +3,22 @@ img {
 }
 
 .img1 {
-
+  visibility: visible;
 }
 
 .img2 {
-
+  visibility: hidden;
 }
 
 .img3 {
-
+  /* visibility: hidden; */
+  display: none;
 }
 
 .img4 {
+  visibility: visible;
+}
 
+.container {
+  background-color: aqua;
 }

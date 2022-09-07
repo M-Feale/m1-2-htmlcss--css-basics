@@ -9,4 +9,46 @@ html, body, div, h1, h2, p, ul, li {
 	vertical-align: baseline;
 }
 
-/* ADD CSS BELOW */
+body {
+	margin: 30px;
+	font-family: 'Bangers', cursive;
+}
+
+.section {
+
+}
+
+h1 {
+	font-size: 50px;
+	text-align: center;
+	margin: 10px 0;
+}
+
+h2 {
+	font-size: 30px;
+	margin: 20px 0;
+}
+
+h3 {
+	font-size: 24px;
+}
+
+.row {
+	/* background-color: aqua; */
+	display:flex;
+	/* justify-content: space-between; */
+	list-style-type: none;
+}
+
+.col {
+	background-color: lightgray;
+	border: 2px dashed grey;
+	text-align: center;
+	padding: 10px;
+	margin-right: 20px;
+}
+.image {
+	height: 150px;
+	margin: 10px;
+	border-radius: 5px;
+}
